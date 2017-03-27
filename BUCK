@@ -1,5 +1,5 @@
 prebuilt_cxx_library(
-  name = 'boost-utility',
+  name = 'utility',
   header_only = True,
   header_namespace = 'boost',
   exported_headers = subdir_glob([
